@@ -10,7 +10,7 @@
 
 
 .header{
-    background: url('manzara.jpg') center;
+    background: url('../images/manzara.jpg') center;
     background-size: cover;
     height: 200px;
     position: relative;
